@@ -1,0 +1,20 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "前端框架搭建",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"你好\"",
+    "build": "webpack",
+    "start": "webpack-dev-server"
+  },
+  "author": "Sergius",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.9.7"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
